@@ -1,0 +1,10 @@
+.box{
+    height: 325px;
+    width: 650px;
+    color: firebrick;
+    border: 7px double palevioletred;
+    background: url(../images/img_tree.png) no-repeat right;
+    margin-left: 50px;
+    padding: 30px;
+    border-radius: 25%;
+}
